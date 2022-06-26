@@ -4,7 +4,7 @@
 
 The overall purpose of this analysis was to determine the viability of owning a bikesharing business Des Moines, IA. To complete this analysis I started by reviewing the Citibike bikesharing business in NYC to determine the in's and out's of how it works. During this analysis we review a lot of the critical information that needs to be considered for this type of business including the Peak Hours of the day and the peak days, how long users typically checkout bikes, our target market (gender, and Subscribers vs Non-Subscribers), etc. Some things that will potentially need to be adjusted in the future before starting in IA include the potential time the bikes are checked out, as the locations could be farther apart, and obviously the Top Starting and End locations. I would imagine the peak hours and peak days would stay relatively the same. 
 
-Please see below for the NYC BikeShare Analysis Results: 
+Please see the link for the NYC BikeShare Analysis Results: 
 [link to dashboard](https://public.tableau.com/app/profile/eric.ajini/viz/NYCBikeshareAnalysisChallenge/NYCBikeshareAnalysis)
 
 ## Results 
@@ -54,5 +54,5 @@ On this page you are able to filter by hours of the day to determine how long bi
 
 ## Summary
 
-
+Overall we were able to pull out a lot of useful information that will be useful when considering the bikesharing company in IA. Some of the biggest things include that mainly men and subscribers are the most interested, the peak hours of operation are usually 5pm and 6 pm and the peak days of the week are usually Thursday and Friday. Outside of this, 2 other visualizations I would recommend creating include a chart that shows the count of trips by birth age to understand the target market better and something that shows if certain genders maybe use certain stations over others more, which could be a way to understand what kind of marketing/ promotion needs to happen in that area.    
 
